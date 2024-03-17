@@ -1,0 +1,17 @@
+int n = 5;
+
+////////////////////////
+
+int main() {
+    int i = 2;
+}
+
+////////////////////////
+
+bool multiplo2(int d) {
+    n = 2;
+    if (d % n == 0)
+        return true;
+    else
+        return false;
+}
